@@ -1,6 +1,8 @@
 # Hashmap
 Project for Odin Project
 
+
+
 Instrutions/ Description of Functions (from Odin Project):
 
 Start by creating a HashMap class or factory function. It’s up to you which you want to use. Then proceed to create the following methods:
